@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Manmohit Singh , CSE student at GNDU .
+
 <!--
 **Manmohit-Singh24/Manmohit-Singh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
